@@ -1,5 +1,5 @@
 package hu.bme.mit.spaceship;
-
+//asdasd
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
 */
