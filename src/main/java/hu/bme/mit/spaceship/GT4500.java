@@ -1,5 +1,9 @@
 package hu.bme.mit.spaceship;
+
 //asdasd
+
+//branch b valtozas
+
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
 */
